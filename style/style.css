@@ -1,0 +1,379 @@
+
+.glavnidiv {
+	width: 100%;
+	height: 100px;
+}
+.RASM1 {
+	margin-top: 20px;
+}
+.aynirasm {
+	width: 19%;
+	display: inline-block;
+	margin-right: 50px;
+	
+}
+.div1 {
+	margin-top: 0px;
+	width: 18%;
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.div2 {
+	width: 18%;
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.div3 {
+	width: 18%;
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.button1:focus {
+	background-color: red;
+	color: white;
+}
+.button1 {
+	color: red;
+	background-color: white;
+	width: 150px;
+	height: 45px;
+	border-radius: 50px;
+	border: 1px solid red;
+}
+h4 {
+
+	opacity: 0.8;
+	margin-right: 30px;
+	display: inline-block;
+}
+
+
+/*rasm va text qismi*/
+.text {
+	width: 50%;
+	display: inline-block;
+}
+.paragraph {
+	margin-bottom: 30px;
+	opacity: 0.7;
+}
+.h1 {
+	margin-bottom: 30px;
+	font-size: 50px;
+	font-weight: 500;
+}
+.button2 {
+	font-size: 20px;
+	width: 250px;
+	height: 80px;
+	border-radius: 15px;
+	border: 0px;
+	color: white;
+	background-color: #F53838;
+	box-shadow: 0px 12px 35px 0px rgba(250,8,8,1);
+}
+.rasm {
+	margin-top: 0px;
+	width: 49%;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+/*mana bu yergacha*/
+.glavnidiv2 {
+	border-radius: 20px;
+	height: 200px;
+	width: 1400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 130px;
+	margin-top: 65px;
+	box-shadow: 0px 45px 70px 0px rgba(0,0,0,0.40);
+}
+.div10 {
+	margin-left: 103px;
+	margin-right: 500px;
+	height: 190px;
+	width: 30%;
+	display: inline-block;
+	margin-top: 68px;
+	text-align: center;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	background-color: #FFECEC;
+}
+strong {
+	font-size: 22px;
+}
+.p10 {
+	display: inline-block;
+	font-weight: 700;
+}
+.bxs-user {
+	font-size: 25px;
+	margin-top: 14px;
+	text-align: center;
+}
+.div20 {
+	margin-right: 500px;
+	height: 190px;
+	width: 30%;
+	display: inline-block;
+	margin-top: 68px;
+	text-align: center;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	background-color: #FFECEC;
+}
+.p20 {
+	display: inline-block;
+	font-weight: 700;
+}
+.fa-location-dot {
+	font-size: 25px;
+	margin-top: 14px;
+	text-align: center;
+}
+.div30 {
+	width: 30%;
+	height: 190px;
+	display: inline-block;
+	margin-top: 68px;
+	text-align: center;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	background-color: #FFECEC;
+}
+.p30 {
+	display: inline-block;
+	font-weight: 700;
+}
+.fa-server {
+	text-align: right;
+	font-size: 25px;
+	margin-top: 14px;
+}
+/*rasm va ruyxta*/
+.rasmvaruyxat {
+	margin-right: 170px;
+	width: 50%;
+	margin-left: 70px;
+	margin-bottom: 50px;
+	display: inline-block;
+}
+.faqatruyxat {
+	margin-right: 0;
+	margin-bottom: 49px;
+	display: inline-block;
+}
+.ruyxat {
+	padding: 0;
+	margin-top: 20px;
+	list-style-type: none;
+}
+.li1 {
+	margin-bottom: 20px;
+}
+/*aqobsh*/
+.foter {
+	background-color: #FAFAFA;
+	width: 100%;
+	height: 1100px;
+}
+.h100,.h500 {
+	text-align: center;
+	font-weight: 500;
+	font: rubik;
+}
+.p100 {
+	margin-bottom: 100px;
+	text-align: center;
+	font-size: 1rem;
+	font: rubik;
+	font-weight: 400;
+}
+/*Aqibash 3 tasi*/
+
+/*bu 1chisi*/
+.div100 {
+	margin-left: 188px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 2px solid #DDDDDD;
+	width: 330px;
+	height: 760px;
+}
+.RASM10 {
+	margin-top: 70px;
+	width: 145px;
+	height: 165px;
+}
+.h300 {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 22px;
+	font-weight: 500;
+	font: rubik;
+} 
+.ul200 {
+	text-align: center;
+	list-style-type: none;
+}
+.lilar {
+	margin-right: 30px;
+	margin-top: 19px;
+	margin-bottom: 19px;
+}
+.lilara {
+	margin-right: 71px;
+	margin-top: 17px;
+	margin-bottom: 17px;
+}
+.h500 {
+	margin-top: 165px;
+}
+.button120 {
+	color: red;
+	background-color: white;
+	width: 177px;
+	height: 45px;
+	border-radius: 50px;
+	border: 1px solid red;
+}
+.button120:focus {
+	background-color: red;
+	color: white;
+}
+
+
+
+/*bu2-si*/
+.div1000:active {
+	border: 2px solid red;
+}
+.div1000 {
+	margin-left: 50px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 2px solid #DDDDDD;
+	width: 330px;
+	height: 760px;
+}
+.RASM100 {
+	margin-top: 70px;
+	width: 145px;
+	height: 165px;
+}
+.h00 {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 18px;
+	font-weight: 500;
+	font: rubik;
+} 
+.ul00 {
+	text-align: center;
+	list-style-type: none;
+}
+.lilar {
+	margin-top: 17px;
+	margin-bottom: 17px;
+}
+.lilarr {
+	margin-right: 98px;
+}
+.lilara {
+	margin-right: 71px;
+	margin-top: 19px;
+	margin-bottom: 19px;
+}
+.h500 {
+	margin-top: 165px;
+}
+.button120 {
+	color: red;
+	background-color: white;
+	width: 177px;
+	height: 45px;
+	border-radius: 50px;
+	border: 1px solid red;
+}
+.button120:focus {
+	background-color: red;
+	color: white;
+}
+
+/*bu 3-si*/
+.div1000 {
+	margin-left: 90px;
+	padding: 0;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 2px solid #DDDDDD;
+	width: 330px;
+	height: 760px;
+}
+.RASM100 {
+	margin-top: 70px;
+	width: 145px;
+	height: 165px;
+}
+.h00 {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 22px;
+	font-weight: 500;
+	font: rubik;
+} 
+.ul00 {
+	text-align: center;
+	list-style-type: none;
+}
+.lilarrr {
+	margin-right: 97px;
+}
+.lilar {
+	margin-right: 71px;
+	margin-top: 19px;
+	margin-bottom: 19px;
+}
+.lilara {
+	margin-right: 112px;
+	margin-top: 17px;
+	margin-bottom: 17px;
+}
+.h500 {
+	margin-top: 165px;
+}
+.button120 {
+	color: red;
+	background-color: white;
+	width: 177px;
+	height: 45px;
+	border-radius: 50px;
+	border: 1px solid red;
+}
+.button120:focus {
+	background-color: red;
+	color: white;
+}
+.h1past {
+	text-align: center;
+	font-size: 35px;
+	font: 500;
+}
+.paqibash {
+	opacity: 0.9;
+	text-align: center;
+}
