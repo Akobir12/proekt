@@ -1,10 +1,6 @@
 
-.glavnidiv {
-	width: 100%;
-	height: 100px;
-}
 .RASM1 {
-	margin-top: 20px;
+	margin-top: 21px;
 }
 .aynirasm {
 	width: 19%;
@@ -13,6 +9,7 @@
 	
 }
 .div1 {
+	text-align: center;
 	margin-top: 0px;
 	width: 18%;
 	display: inline-block;
@@ -20,12 +17,14 @@
 	margin-left: 50px;
 }
 .div2 {
+	text-align: center;
 	width: 18%;
 	display: inline-block;
 	margin-right: 50px;
 	margin-left: 50px;
 }
 .div3 {
+	text-align: center;
 	width: 18%;
 	display: inline-block;
 	margin-right: 50px;
@@ -57,15 +56,19 @@ h4 {
 	display: inline-block;
 }
 .paragraph {
-	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-bottom: 34px;
 	opacity: 0.7;
 }
 .h1 {
-	margin-bottom: 30px;
+	width: 555px;
+	margin-left: 40px;
+	margin-bottom: 13px;
 	font-size: 50px;
 	font-weight: 500;
 }
 .button2 {
+	margin-left: 40px;
 	font-size: 20px;
 	width: 250px;
 	height: 80px;
@@ -76,7 +79,7 @@ h4 {
 	box-shadow: 0px 12px 35px 0px rgba(250,8,8,1);
 }
 .rasm {
-	margin-top: 0px;
+	margin-top: 10pxpx;
 	width: 49%;
 	display: inline-block;
 	margin-bottom: 50px;
@@ -93,11 +96,11 @@ h4 {
 	box-shadow: 0px 45px 70px 0px rgba(0,0,0,0.40);
 }
 .div10 {
+	float: left;
 	margin-left: 103px;
-	margin-right: 500px;
+	margin-right: 200px;
 	height: 190px;
 	width: 30%;
-	display: inline-block;
 	margin-top: 68px;
 	text-align: center;
 	width: 55px;
@@ -105,11 +108,14 @@ h4 {
 	border-radius: 50%;
 	background-color: #FFECEC;
 }
+.div11{
+	float: left;
+}
 strong {
 	font-size: 22px;
 }
 .p10 {
-	display: inline-block;
+	
 	font-weight: 700;
 }
 .bxs-user {
@@ -118,10 +124,11 @@ strong {
 	text-align: center;
 }
 .div20 {
+	margin-left: 200px;
 	margin-right: 500px;
 	height: 190px;
 	width: 30%;
-	display: inline-block;
+	float: left;
 	margin-top: 68px;
 	text-align: center;
 	width: 55px;
@@ -129,8 +136,11 @@ strong {
 	border-radius: 50%;
 	background-color: #FFECEC;
 }
+.div21{
+	float: left;
+}
 .p20 {
-	display: inline-block;
+	
 	font-weight: 700;
 }
 .fa-location-dot {
@@ -139,9 +149,10 @@ strong {
 	text-align: center;
 }
 .div30 {
+	margin-left: 342px;
 	width: 30%;
 	height: 190px;
-	display: inline-block;
+	float: left;
 	margin-top: 68px;
 	text-align: center;
 	width: 55px;
@@ -149,8 +160,17 @@ strong {
 	border-radius: 50%;
 	background-color: #FFECEC;
 }
-.p30 {
+.div31{
+	float: left;
+}
+.h4 {
+	font-weight: bolder;
+	margin-top: 0;
 	display: inline-block;
+}
+
+.p30 {
+	
 	font-weight: 700;
 }
 .fa-server {
@@ -202,7 +222,7 @@ strong {
 /*bu 1chisi*/
 .div100 {
 	margin-left: 188px;
-	display: inline-block;
+	float: left;
 	text-align: center;
 	border-radius: 10px;
 	background-color: white;
@@ -354,7 +374,7 @@ strong {
 	margin-bottom: 17px;
 }
 .h500 {
-	margin-top: 165px;
+	margin-top: 120px;
 }
 .button120 {
 	color: red;
@@ -368,6 +388,7 @@ strong {
 	background-color: red;
 	color: white;
 }
+/*aqibash*/
 .h1past {
 	text-align: center;
 	font-size: 35px;
@@ -376,4 +397,12 @@ strong {
 .paqibash {
 	opacity: 0.9;
 	text-align: center;
+}
+.rasmkarta {
+	margin-top: 200px;
+	margin-left: 220px;
+	text-align: center;
+}
+li{
+	list-style-type:none;
 }
